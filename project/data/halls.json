@@ -1,0 +1,444 @@
+{
+  "halls": [
+    {
+      "id": 1,
+      "name": "The Clifton Marquee",
+      "area": "Clifton",
+      "address": "F-69, Block 4, Clifton, Karachi",
+      "type": "Marquee",
+      "capacity": 1000,
+      "starting_price": 163000,
+      "features": ["AC", "Parking", "Decor", "Catering", "Generator", "Stage"],
+      "images": [
+        "public/images/id1img2.jpeg",
+        "public/images/id1img5.jpeg"
+      ],
+      "video": "https://youtu.be/5e_dC_E-JFk?si=5ymLnHcJA19p7dru",
+      "contact": {
+        "phone": "0300-8237357",
+        "email": "info@cliftonmarquee.com"
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Prime marquee near Sea View."
+    },
+    {
+      "id": 2,
+      "name": "Casamento Banquet",
+      "area": "North Nazimabad",
+      "address": "D-9, Block L, North Nazimabad, Karachi",
+      "type": "Banquet",
+      "capacity": 600,
+      "starting_price": 100000,
+      "features": ["AC", "Decor", "Parking", "Catering"],
+      "images": [
+        "public/images/id2img1.jpg",
+        "public/images/id2img2.webp"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "021-36646160",
+        "email": "info@casamentoevents.com"
+      },
+      "rating": 4.1,
+      "reviews": [],
+      "notes": "Large and well-known banquet in North Nazimabad."
+    },
+    {
+      "id": 3,
+      "name": "Al-Mehmil Banquet",
+      "area": "North Nazimabad",
+      "address": "North Nazimabad, Karachi",
+      "type": "Banquet",
+      "capacity": 700,
+      "starting_price": 120000,
+      "features": ["AC", "Parking", "Decor"],
+      "images": [
+        "public/images/id3img1.jpg",
+        "public/images/id3img2.jpeg"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Popular banquet hall."
+    },
+    {
+      "id": 4,
+      "name": "Al-Mehmil Banquet Gold",
+      "area": "North Nazimabad",
+      "address": "North Nazimabad, Karachi",
+      "type": "Banquet",
+      "capacity": 200,
+      "starting_price": 40000,
+      "features": ["AC", "Decor"],
+      "images": [
+        "public/images/id4img1.png",
+        "public/images/id4img2.png"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Smaller / budget-friendly version."
+    },
+    {
+      "id": 5,
+      "name": "City Lawn",
+      "area": "North Nazimabad",
+      "address": "North Nazimabad, Karachi",
+      "type": "Lawn",
+      "capacity": 700,
+      "starting_price": 250000,
+      "features": ["Open Lawn", "Parking", "Decor"],
+      "images": [
+        "public/images/id5img1.jpeg",
+        "public/images/id5img2.jpeg"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "High-end lawn for outdoor events."
+    },
+    {
+      "id": 6,
+      "name": "The Grand Banquet",
+      "area": "North Nazimabad",
+      "address": "North Nazimabad, Karachi",
+      "type": "Banquet",
+      "capacity": 500,
+      "starting_price": 70000,
+      "features": ["AC", "Catering", "Stage"],
+      "images": [
+        "public/images/id6img2.png",
+        "public/images/id6img1.webp"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Large indoor banquet hall."
+    },
+    {
+      "id": 7,
+      "name": "Rex Banquet",
+      "area": "North Nazimabad",
+      "address": "North Nazimabad, Karachi",
+      "type": "Banquet",
+      "capacity": 550,
+      "starting_price": 100000,
+      "features": ["AC", "Parking", "Decor"],
+      "images": [
+        "public/images/id7img1.jpg",
+        "public/images/id7img2.jpg"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Classic banquet hall."
+    },
+    {
+      "id": 8,
+      "name": "Modern Palace (A)",
+      "area": "North Nazimabad",
+      "address": "North Nazimabad, Karachi",
+      "type": "Banquet",
+      "capacity": 1200,
+      "starting_price": 90000,
+      "features": ["AC", "Large Stage", "Parking"],
+      "images": [
+        "public/images/id8img2.jpg",
+        "public/images/id8img1.jpeg"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Very large banquet hall, good for weddings."
+    },
+    {
+      "id": 9,
+      "name": "Modern Palace (B)",
+      "area": "North Nazimabad",
+      "address": "North Nazimabad, Karachi",
+      "type": "Banquet",
+      "capacity": 400,
+      "starting_price": 20000,
+      "features": ["AC", "Decor"],
+      "images": [
+        "public/images/id9img1.png",
+        "public/images/id9img2.png"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Budget-friendly hall."
+    },
+    {
+      "id": 10,
+      "name": "Radiant Banquet",
+      "area": "North Nazimabad",
+      "address": "D-7, Block N, North Nazimabad, Karachi",
+      "type": "Banquet",
+      "capacity": 525,
+      "starting_price": null,
+      "features": ["AC", "Bridal Room", "Generator", "Valet Parking", "Sound System"],
+      "images": [
+        "public/images/id10img1.jpg",
+        "public/images/id10img2.png"
+      ],
+      "video": "https://www.youtube.com/watch?v=r7GO9Qq_WlY",
+      "contact": {
+        "phone": "+92-21-36640625",
+        "email": "radiantbanquet123@gmail.com"
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Very popular banquet in North Nazimabad with good parking."
+    },
+    {
+      "id": 11,
+      "name": "The Traditions Banquet",
+      "area": "North Nazimabad",
+      "address": "North Nazimabad, Karachi",
+      "type": "Banquet",
+      "capacity": 600,
+      "starting_price": 80000,
+      "features": ["AC", "Decor", "Parking"],
+      "images": [
+        "public/images/id11img1.jpeg",
+        "public/images/id11img2.jpeg"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Suitable for weddings & family functions."
+    },
+    {
+      "id": 12,
+      "name": "Kulsoom Banquet",
+      "area": "Gulshan-e-Iqbal",
+      "address": "Gulshan-e-Iqbal, Karachi",
+      "type": "Banquet",
+      "capacity": 700,
+      "starting_price": 200000,
+      "features": ["AC", "Stage", "Parking"],
+      "images": [
+        "public/images/id12img1.jpeg",
+        "public/images/id12img2.jpg"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "A premium banquet hall in Gulshan-e-Iqbal."
+    },
+    {
+      "id": 13,
+      "name": "Emperial Banquet",
+      "area": "F.B Area",
+      "address": "F.B Area, Karachi",
+      "type": "Banquet",
+      "capacity": 450,
+      "starting_price": 60000,
+      "features": ["AC", "Parking", "Decor"],
+      "images": [
+        "public/images/id13im1.jpeg",
+        "public/images/id13img2.jpg"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Reliable banquet for medium events."
+    },
+    {
+      "id": 14,
+      "name": "Blue Moon Banquet",
+      "area": "Shahrah-e-Faisal",
+      "address": "Shahrah-e-Faisal, Karachi",
+      "type": "Banquet",
+      "capacity": 800,
+      "starting_price": 200000,
+      "features": ["AC", "Open Space", "Decor"],
+      "images": [
+        "public/images/id14img1.jpeg",
+        "public/images/id14img2.jpeg"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Large hall, good for big weddings."
+    },
+    {
+      "id": 15,
+      "name": "Saima Banquet Hall",
+      "area": "Stadium Road",
+      "address": "Stadium Road, Karachi",
+      "type": "Banquet",
+      "capacity": 700,
+      "starting_price": 80000,
+      "features": ["AC", "Decor", "Parking"],
+      "images": [
+        "public/images/id15img1.jpeg",
+        "public/images/id5img2.jpeg"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Conveniently located near Stadium road."
+    },
+    {
+      "id": 16,
+      "name": "Rida Banquet",
+      "area": "F.B Area",
+      "address": "F.B Area, Karachi",
+      "type": "Banquet",
+      "capacity": 450,
+      "starting_price": 55000,
+      "features": ["AC", "Parking"],
+      "images": [
+        "public/images/id16img1.jpeg",
+        "public/images/id16img2.jpeg"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Budget-friendly banquet."
+    },
+    {
+      "id": 17,
+      "name": "Roses Banquet",
+      "area": "North Nazimabad",
+      "address": "Shahrah-e-Sher Shah Suri Rd, North Nazimabad, Karachi",
+      "type": "Banquet",
+      "capacity": 400,
+      "starting_price": 80000,
+      "features": ["AC", "Parking", "Decoration"],
+      "images": [
+        "public/images/id17img1.jpeg",
+        "public/images/id17img2.jpeg"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "0310-6225553",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Affordable banquet for small to medium gatherings."
+    },
+    {
+      "id": 18,
+      "name": "Amber Banquet",
+      "area": "North Nazimabad",
+      "address": "Shahrah-e-Sher Shah Suri Rd, North Nazimabad, Karachi",
+      "type": "Banquet",
+      "capacity": 550,
+      "starting_price": 150000,
+      "features": ["AC", "Generator", "Parking", "Decor"],
+      "images": [
+        "public/images/id18img2.jpeg",
+        "public/images/id18img1.jpeg"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "021-36630138",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Well-known banquet with generator facility."
+    },
+    {
+      "id": 19,
+      "name": "Moti Mahal Hall",
+      "area": "Gulshan-e-Iqbal",
+      "address": "Block 3, Gulshan-e-Iqbal, Karachi",
+      "type": "Banquet",
+      "capacity": null,
+      "starting_price": null,
+      "features": ["AC", "Parking"],
+      "images": [
+        "public/images/id19img1.png",
+        "public/images/id19img2.jpeg"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Historic and traditional venue in Gulshan-e-Iqbal."
+    },
+    {
+      "id": 20,
+      "name": "Sir Syed Lawn",
+      "area": "Nazimabad",
+      "address": "Nazimabad, Karachi",
+      "type": "Lawn",
+      "capacity": 500,
+      "starting_price": 30000,
+      "features": ["Open Lawn", "Decor", "Parking"],
+      "images": [
+        "public/images/id20img2.jpeg",
+        "public/images/id20img1.jpeg"
+      ],
+      "video": "",
+      "contact": {
+        "phone": "",
+        "email": ""
+      },
+      "rating": null,
+      "reviews": [],
+      "notes": "Popular lawn for outdoor weddings."
+    }
+  ]
+}
